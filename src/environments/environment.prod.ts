@@ -1,3 +1,4 @@
 export const environment = {
-  production: true
+  production: true,
+  apiCars: 'https://freetestapi.com/api/v1/',
 };
